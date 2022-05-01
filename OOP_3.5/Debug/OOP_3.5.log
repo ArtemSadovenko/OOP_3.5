@@ -1,0 +1,3 @@
+﻿  WorkTeacher.cpp
+D:\visual studio projects\OOP_3.5\WorkTeacher.cpp(82,6): warning C4101: f: неиспользованная локальная переменная
+  OOP_3.5.vcxproj -> D:\visual studio projects\OOP_3.5\Debug\OOP_3.5.exe
